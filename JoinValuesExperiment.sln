@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{03A374EA-6994-4ECD-8C83-3E4EA7E8A74C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinValuesExperiment", "JoinValuesExperiment\JoinValuesExperiment.csproj", "{FB135454-9282-42BE-ABF1-BAE547269F88}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "JoinValuesExperiment_22_207_0013", "JoinValuesExperiment_22_207_0013\", "{EA0AF9DD-EE1D-41BF-AFA6-9A671DA1543F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		ProjectReferences = "{fb135454-9282-42be-abf1-bae547269f88}|JoinValuesExperiment.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55626"
+		Debug.AspNetCompiler.PhysicalPath = "JoinValuesExperiment_22_207_0013\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55626\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55626"
+		Release.AspNetCompiler.PhysicalPath = "JoinValuesExperiment_22_207_0013\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55626\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55626"
+		SlnRelativePath = "JoinValuesExperiment_22_207_0013\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB135454-9282-42BE-ABF1-BAE547269F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB135454-9282-42BE-ABF1-BAE547269F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB135454-9282-42BE-ABF1-BAE547269F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB135454-9282-42BE-ABF1-BAE547269F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0AF9DD-EE1D-41BF-AFA6-9A671DA1543F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0AF9DD-EE1D-41BF-AFA6-9A671DA1543F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0AF9DD-EE1D-41BF-AFA6-9A671DA1543F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0AF9DD-EE1D-41BF-AFA6-9A671DA1543F}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79274587-375A-47F0-805F-50BA630DABBF}
+	EndGlobalSection
+EndGlobal

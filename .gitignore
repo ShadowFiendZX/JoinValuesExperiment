@@ -1,0 +1,13 @@
+*.patch
+/.vs
+/BackUp
+/Customization
+/JoinValuesExperiment/bin
+/JoinValuesExperiment/obj
+/JoinValuesExperiment/JoinValuesExperiment.csproj.user
+/JoinValuesExperiment_22_207_0013/*
+!/JoinValuesExperiment_22_207_0013/Pages
+/JoinValuesExperiment_22_207_0013/Pages/*
+!/JoinValuesExperiment_22_207_0013/Pages/EX
+/Snapshots
+/TemporaryAspFiles
